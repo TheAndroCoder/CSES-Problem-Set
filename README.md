@@ -1,7 +1,7 @@
 # CSES-Problem-Set
 CSES problem set solution
 Problem set can be found at https://cses.fi/problemset/
-## Introductory Problems
+## Introductory Problems (11/19)
 - [x] Weird Algorithm
 - [x] Missing Number
 - [x] Repititions
@@ -22,7 +22,7 @@ Problem set can be found at https://cses.fi/problemset/
 - [ ] Digit Query
 - [ ] Grid Paths
 
-## Sorting and Searching
+## Sorting and Searching (18/35)
 - [x] Distinct Numbers
 - [ ] Apartments
 - [x] Ferris Wheel
